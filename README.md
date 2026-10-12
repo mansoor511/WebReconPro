@@ -45,7 +45,7 @@
 ### Method 1: Automatic (Recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WebReconPro.git
+git clone https://github.com/mansoor511/WebReconPro.git
 cd WebReconPro
 chmod +x install.sh
 ./install.sh
