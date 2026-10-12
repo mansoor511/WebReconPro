@@ -141,7 +141,7 @@ If you see this message, installation is complete:
 ### 📥 Step 5: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WebReconPro.git
+git clone https://github.com/mansoor511/WebReconPro.git
 cd WebReconPro
 ```
 
@@ -351,7 +351,7 @@ This tool is intended for **educational purposes only** and for **ethical securi
 **MANSOOR BIK KAMALI**
 
 - Ethical Hacker & Security Researcher
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/mansoor511)
 - Email: mansoorbik2025@gmail.com
 
 ---
